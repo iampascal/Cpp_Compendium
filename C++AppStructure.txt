@@ -1,0 +1,16 @@
+project_name/
+│
+├── include/
+│   └── header.h        # Header file containing function prototypes and class declarations
+│
+├── src/
+│   ├── main.cpp        # Main source file containing the entry point (main function)
+│   ├── functions.cpp   # Source file containing function definitions
+│   └── utility.cpp     # Source file containing utility functions
+│
+├── tests/
+│   └── test_functions.cpp  # Source file containing unit tests
+│
+├── CMakeLists.txt      # CMake configuration file for building the project
+└── README.md           # Project documentation and instructions
+
